@@ -7,6 +7,9 @@
 </head>
 <body>
 ${customer.firstName} ${customer.lastName} is confirmed!
-
+<br>
+Free passes: ${customer.freePasses}
+<br>
+Zip Code: ${customer.zipCode }
 </body>
 </html>
