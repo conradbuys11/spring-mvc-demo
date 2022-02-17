@@ -11,5 +11,7 @@ ${customer.firstName} ${customer.lastName} is confirmed!
 Free passes: ${customer.freePasses}
 <br>
 Zip Code: ${customer.zipCode }
+<br>
+Course Code: ${customer.courseCode }
 </body>
 </html>
